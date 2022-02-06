@@ -1,0 +1,2 @@
+console.log(cetakNama('Darmawan')); // function cetakNama dapat dipanggil karena terpasang di object window
+// di node js tidak bisa langsung dipanggil melainkan, perlu dipanggil dengan keyword 'requred'
